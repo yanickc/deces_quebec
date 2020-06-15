@@ -28,7 +28,7 @@ NOTES:
 
 2) Les données récentes contiennent des données provisoires ajustées.
 
->ISQ:
+ISQ:
 
 > 2019 : Données provisoires (p), corrigées pour tenir compte de la couverture du fichier. Le taux de couverture estimé varie de 99 % pour les premières semaines à 96 % pour les dernières semaines avant la correction.
 
