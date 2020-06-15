@@ -32,9 +32,7 @@ Il représente la somme des surfaces bleue pâle et rouge pour chaque saison.
    
    https://www.stat.gouv.qc.ca/statistiques/population-demographie/deces-mortalite/nombre-hebdomadaire-deces.html
 
-2) Les données récentes contiennent des données provisoires ajustées.
-
-ISQ:
+2) Les données récentes contiennent des données provisoires ajustées. ISQ:
 
 > 2019 : Données provisoires (p), corrigées pour tenir compte de la couverture du fichier. Le taux de couverture estimé varie de 99 % pour les premières semaines à 96 % pour les dernières semaines avant la correction.
 
