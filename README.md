@@ -1,11 +1,14 @@
 # Décès par semaine au Québec depuis 2010
 
+## Totaux par saison grippale
+
 Le graphique à barres ci-dessous illustre le nombre de décès par saison grippale depuis 2010, **toutes causes confondues**.
 
 Les saisons sont définies ici de novembre à mai (semaines CDC 44 à 22).
 
 ![bar_graph](bar_graph.png)
 
+## Excès par rapport à la moyenne
 
 Le graphique ci-dessous montre le nombre de décès par semaine depuis 2010, **toutes causes confondues**.
 
@@ -20,8 +23,11 @@ Il dénote le nombre de décès au dessus de la moyenne durant chaque saison.
 Le total des décès durant chaque saison grippale est inscrit en en-tête. 
 Il représente la somme des surfaces bleue pâle et rouge pour chaque saison.
 
+![line_graph](line_graph.png)
 
-NOTES:
+
+
+## NOTES:
 1) Les données proviennent de l'Institut de la statistique du Québec.:
    
    https://www.stat.gouv.qc.ca/statistiques/population-demographie/deces-mortalite/nombre-hebdomadaire-deces.html
@@ -35,7 +41,7 @@ ISQ:
 > 2020 : Données provisoires (p) corrigées pour tenir compte de la couverture du fichier. Les données sont encore en cours de collecte. Elles seront révisées d’une diffusion à l’autre. Le taux de couverture estimé varie de 95 % pour les premières semaines à près de 80 % pour la plus récente. Ces données doivent être interprétées avec une plus grande prudence.
 
 
-![line_graph](line_graph.png)
+
 
 
 
