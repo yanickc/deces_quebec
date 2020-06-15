@@ -1,13 +1,13 @@
 # Décès par semaine au Québec depuis 2010
 
-Le graphique à barres ci-dessous illustre le nombre de décès par saison grippale depuis 2010.
+Le graphique à barres ci-dessous illustre le nombre de décès par saison grippale depuis 2010, **toutes causes confondues**.
 
 Les saisons sont définies ici de novembre à mai (semaines CDC 44 à 22).
 
 ![bar_graph](bar_graph.png)
 
 
-Le graphique ci-dessous montre le nombre de décès par semaine depuis 2010.
+Le graphique ci-dessous montre le nombre de décès par semaine depuis 2010, **toutes causes confondues**.
 
 Les zones grises représentent la saison grippale définie ici de novembre à mai (semaines CDC 44 à 22).
 
