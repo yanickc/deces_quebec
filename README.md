@@ -15,9 +15,8 @@ Le graphique ci-dessous montre le nombre de décès par semaine depuis 2010,
   chaque saison.
 
 - L'excès de décès par rapport à la moyenne des 2 années précédentes est
-  représenté par la surface rouge et est inscrit en en-tête. Il dénote le nombre
-  de décès toutes causes confondues, au dessus de la moyenne durant chaque
-  saison grippale. Cela représente la surface rouge. 
+  représenté par la surface rouge. Il dénote le nombre de décès toutes causes
+  confondues, au dessus de la moyenne durant chaque saison grippale.
 
 
 ![line_graph](line_graph.png)
