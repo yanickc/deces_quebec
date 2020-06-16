@@ -12,7 +12,7 @@ The graph below shows the number of deaths per week since 2010,
 - The orange line represents the moving average of the previous 2 years: each
    point of the curve represents the average of the 2 years which preceding it.
 
-- The total of all-cause deaths during each season is shown in blue in the
+- The total of **all-cause deaths** during each season is shown in blue in the
    header. It represents the sum of the blue and red areas for each season.
 
 - The excess of deaths compared to the average of the previous 2 years is
