@@ -6,11 +6,11 @@
 The graph below shows the number of deaths per week since 2010,
 **all causes combined**.
 
+- The orange line represents the moving average of the previous 2 years: each
+   point of the curve represents the average of the 2 complete years preceding it.
+
 - The gray areas represent the *flu season* defined here from November to May
    (weeks CDC 44 to 22).
-
-- The orange line represents the moving average of the previous 2 years: each
-   point of the curve represents the average of the 2 years which preceding it.
 
 - The total of **all-cause deaths** during each season is shown in blue in the
    header. It represents the sum of the blue and red areas for each season.
@@ -34,10 +34,13 @@ The graph below shows the number of deaths per week since 2010,
 - The beginning of 2020 started like 2019. The excess death is concentrated in
    one peak late in season.
 
-- The last 3 weeks are not covered in the ISQ data. **The chart will be
-  updated** when available. Until then **we can project the total for the 2020
-  season to 46,390** using data from weeks 13 to 15, which has the effect of
-  mirroring the shape of the curve.
+- The last 3 weeks are not covered in the ISQ data. **The chart will be updated** 
+  when available. Until then **we can project the total for the 2020 season to
+   46,390** using data from weeks 13 to 15, which has the effect of copying the
+   shape of the curve into "mirror". **This would represent a 6.12% increase
+   compared to the 2018 season.**  Of this number, we do not yet know the effect
+   of confinement in relation to postponed surgery, cancer treatment, untreated
+   heart attack, etc ...
 
 - See NOTES below.
 
@@ -60,8 +63,13 @@ The seasons are defined here from November to May (weeks CDC 44 to 22).
 
 - We observe a cycle between intense and mild seasons.
 
-- Data is missing for the past few weeks. We can expect a total which will go
-   from 41,675 to around 4,500, i.e. in the same order of magnitude as the 2018 season.
+- The last 3 weeks are not covered in the ISQ data. **The chart will be updated** 
+  when available. Until then **we can project the total for the 2020 season to
+   46,390** using data from weeks 13 to 15, which has the effect of copying the
+   shape of the curve into "mirror". **This would represent a 6.12% increase
+   compared to the 2018 season.**  Of this number, we do not yet know the effect
+   of confinement in relation to postponed surgery, cancer treatment, untreated
+   heart attack, etc ...
   
 - See NOTES below.
 

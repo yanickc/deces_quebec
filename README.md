@@ -6,12 +6,12 @@
 Le graphique ci-dessous montre le nombre de décès par semaine depuis 2010,
 **toutes causes confondues**.
 
+- La ligne orange représente la moyenne mouvante des 2 années précédentes :
+  chaque point de la courbe représente la moyenne des 2 années complètes qui le
+  précède.
+
 - Les zones grises représentent la *saison grippale* définie ici de novembre à
   mai (semaines CDC 44 à 22).
-
-- La ligne orange représente la moyenne mouvante des 2 années précédentes :
-  chaque point de la courbe représente la moyenne des 2 années qui le
-  précède.
 
 - Le total des décès **toutes causes confondues** durant chaque saison est inscrit en bleu
   en en-tête. Il représente la somme des surfaces bleue et rouge pour
@@ -37,10 +37,13 @@ Le graphique ci-dessous montre le nombre de décès par semaine depuis 2010,
   pic tard en saison. 
 
 - Les 3 dernières semaines ne sont pas couvertes dans les données de l'ISQ. **Le
-  graphique sera mis à jour** lorsqu'elles seront disponibles. D'ici là **on peut
-  projeter le total de la saison 2020 à 46390** en utilisant les données des
-  semaines 13 à 15, ce qui a pour effet de copier la forme de la courbe en
-  "miroir".
+  graphique sera mis à jour** lorsqu'elles seront disponibles. D'ici là **on
+  peut projeter le total de la saison 2020 à 46390** en utilisant les données
+  des semaines 13 à 15, ce qui a pour effet de copier la forme de la courbe en
+  "miroir". **Ce qui représenterait 6.12% de hausse par rapport à la saison 2018.**
+  De ce nombre, on ne connaît pas encore l'effet du confinement par rapport aux
+  chirurgies, traitement de cancer reportées, crise cardiaques non traitées,
+  etc...
   
 - Voir NOTES plus bas.
 
@@ -64,10 +67,16 @@ Les saisons sont définies ici de novembre à mai (semaines CDC 44 à 22).
 
 - On observe un cycle entre saisons intenses et clémentes.
 
-- Il manque des données pour les dernières semaines. On peut s'attendre à un
-  total qui passera de 41675 à environ 4500, soit dans le même ordre de grandeur que la
-  saison 2018.
-
+- Les 3 dernières semaines ne sont pas couvertes dans les données de l'ISQ. **Le
+  graphique sera mis à jour** lorsqu'elles seront disponibles. D'ici là **on
+  peut projeter le total de la saison 2020 à 46390** en utilisant les données
+  des semaines 13 à 15, ce qui a pour effet de copier la forme de la courbe en
+  "miroir". **Ce qui représenterait 6.12% de hausse par rapport à la saison 2018.**
+  De ce nombre, on ne connaît pas encore l'effet du confinement par rapport aux
+  chirurgies, traitement de cancer reportées, crise cardiaques non traitées,
+  etc...
+  
+- Voir NOTES plus bas.
 
 
 # Répartitions
