@@ -1,4 +1,7 @@
 # Décès par semaine **toutes causes confondues**
+[ [English version here](README_english.md) ]
+
+2020-06-15
 
 Le graphique ci-dessous montre le nombre de décès par semaine depuis 2010,
 **toutes causes confondues**.
