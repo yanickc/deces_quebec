@@ -9,17 +9,17 @@ Le graphique ci-dessous montre le nombre de décès par semaine depuis 2010,
 - Les zones grises représentent la *saison grippale* définie ici de novembre à
   mai (semaines CDC 44 à 22).
 
-- La ligne orange représente la moyenne mouvante des 2 années précédentes,
-  c'est-à-dire que chaque point est la moyenne des 52 * 2 semaines que le
+- La ligne orange représente la moyenne mouvante des 2 années précédentes :
+  chaque point de la courbe représente la moyenne des 2 années qui le
   précède.
 
-- Le total des décès toutes causes confondues durant chaque saison est inscrit
-  en en-tête. Il représente la somme des surfaces bleue pâle et rouge pour
+- Le total des décès **toutes causes confondues** durant chaque saison est inscrit en bleu
+  en en-tête. Il représente la somme des surfaces bleue et rouge pour
   chaque saison.
 
 - L'excès de décès par rapport à la moyenne des 2 années précédentes est
-  représenté par la surface rouge. Il dénote le nombre de décès toutes causes
-  confondues, au dessus de la moyenne durant chaque saison grippale.
+  représenté par la surface rouge. Il dénote le nombre de décès **toutes causes
+  confondues**, au dessus de la moyenne pour chaque saison.
 
 
 ![line_graph](line_graph.png)
@@ -36,9 +36,11 @@ Le graphique ci-dessous montre le nombre de décès par semaine depuis 2010,
 - Le début 2020 a commencé comme 2019. L'excès de décès est concentré dans un
   pic tard en saison. 
 
-- Il manque des données pour les dernières semaines. On peut s'attendre à un
-  total qui passera de 41675 à environ 4500, soit dans le même ordre de grandeur que la
-  saison 2018.
+- Les 3 dernières semaines ne sont pas couvertes dans les données de l'ISQ. **Le
+  graphique sera mis à jour** lorsqu'elles seront disponibles. D'ici là **on peut
+  projeter le total de la saison 2020 à 46390** en utilisant les données des
+  semaines 13 à 15, ce qui a pour effet de copier la forme de la courbe en
+  "miroir".
   
 - Voir NOTES plus bas.
 
@@ -87,9 +89,25 @@ https://www.inspq.qc.ca/covid-19/donnees
    
    ISQ:
 
-   > 2019 : Données provisoires (p), corrigées pour tenir compte de la couverture du fichier. Le taux de couverture estimé varie de 99 % pour les premières semaines à 96 % pour les dernières semaines avant la correction.
+   > 2019 : Données provisoires (p), corrigées pour tenir compte de la
+   > couverture du fichier. Le taux de couverture estimé varie de 99 % pour les
+   > premières semaines à 96 % pour les dernières semaines avant la correction.
 
-   > 2020 : Données provisoires (p) corrigées pour tenir compte de la couverture du fichier. Les données sont encore en cours de collecte. Elles seront révisées d’une diffusion à l’autre. Le taux de couverture estimé varie de 95 % pour les premières semaines à près de 80 % pour la plus récente. Ces données doivent être interprétées avec une plus grande prudence.
+   > 2020 : Données provisoires (p) corrigées pour tenir compte de la couverture
+   > du fichier. Les données sont encore en cours de collecte. Elles seront
+   > révisées d’une diffusion à l’autre. Le taux de couverture estimé varie de
+   > 95 % pour les premières semaines à près de 80 % pour la plus récente. Ces
+   > données doivent être interprétées avec une plus grande prudence.
+
+   > L’estimation des taux de couverture repose sur une analyse de l’historique
+   > du rythme de réception et de traitement des bulletins de décès. Des
+   > facteurs de correction différentiels ont été appliqués selon le groupe
+   > d’âge et le sexe.
+
+   > La situation de crise actuelle pourrait faire que le rythme de réception
+   > des bulletins diffère de celui de la période de référence utilisée pour
+   > élaborer le modèle d'ajustement. L'interprétation des résultats doit en
+   > tenir compte, surtout pour les semaines les plus récentes.
 
 
 
