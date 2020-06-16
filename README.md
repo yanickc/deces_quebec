@@ -81,12 +81,27 @@ Les saisons sont définies ici de novembre à mai (semaines CDC 44 à 22).
 
 # Répartitions
 
-Répartition par groupe d'âge des décès liées à la COVID au Québec,
-d'après l'Institut national de santé publique du Québec:
 
-https://www.inspq.qc.ca/covid-19/donnees
+## Répartition par groupe d'âge des décès **liées à la COVID** au Québec
+
+D'après l'Institut national de santé publique du Québec: https://www.inspq.qc.ca/covid-19/donnees
 
 ![repartition](repartition_groupe_age.png)
+
+
+## Répartition par groupe d'âge des décès **toutes causes confondues** au Québec
+
+![line_graph](line_graph_70_ans_et_plus.png)
+![line_graph](line_graph_50-69_ans.png)
+![line_graph](line_graph_0-49_ans.png)
+
+![bar_graph](bar_graph_70_ans_et_plus.png)
+![bar_graph](bar_graph_50-69_ans.png)
+![bar_graph](bar_graph_0-49_ans.png)
+
+
+
+
 
 
 # NOTES:
