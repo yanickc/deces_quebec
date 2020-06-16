@@ -19,7 +19,11 @@ Le graphique ci-dessous montre le nombre de décès par semaine depuis 2010,
   de décès toutes causes confondues, au dessus de la moyenne durant chaque
   saison grippale. Cela représente la surface rouge. 
 
-## Observations
+
+![line_graph](line_graph.png)
+
+
+### Observations
 
 - Notez les saisons 2013, 2015 et 2018 où il y a un fort surplus de décès.
 
@@ -38,16 +42,17 @@ Le graphique ci-dessous montre le nombre de décès par semaine depuis 2010,
 
 
 
-![line_graph](line_graph.png)
-
-
 # Total des décès par saison grippale au Québec **toutes causes confondues**
 
 Le graphique à barres ci-dessous illustre le nombre de décès par saison grippale depuis 2010, **toutes causes confondues**.
 
 Les saisons sont définies ici de novembre à mai (semaines CDC 44 à 22).
 
-## Observations
+
+![bar_graph](bar_graph.png)
+
+
+### Observations
 
 - Notez les saisons 2013, 2015 et 2018 où il y a un fort surplus de décès.
 
@@ -59,8 +64,6 @@ Les saisons sont définies ici de novembre à mai (semaines CDC 44 à 22).
   total qui passera de 41675 à environ 4500, soit dans le même ordre de grandeur que la
   saison 2018.
 
-
-![bar_graph](bar_graph.png)
 
 
 # Répartitions
