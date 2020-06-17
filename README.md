@@ -39,6 +39,10 @@ Le graphique ci-dessous montre le nombre de décès par semaine depuis 2010,
 - Le début 2020 a commencé comme 2019. L'excès de décès est concentré dans un
   pic tard en saison. 
 
+- L'excès par rapport à la moyenne de la saison 2015 est plus grand que celui de
+  2018, malgré que le total de 2015 soit plus petit. C'est la saison durant
+  laquelle il y a eu le plus de décès en excès de la moyenne.
+
 - Les 3 dernières semaines ne sont pas couvertes dans les données de l'ISQ. **Le
   graphique sera mis à jour** lorsqu'elles seront disponibles. D'ici là **on
   peut projeter le total de la saison 2020 à 46390** en utilisant les données

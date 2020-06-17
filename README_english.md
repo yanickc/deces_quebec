@@ -35,6 +35,10 @@ The graph below shows the number of deaths per week since 2010,
 - The beginning of 2020 started like 2019. The excess death is concentrated in
    one peak late in season.
 
+- The excess compared to the average for the 2015 season is greater than that of
+   2018, although the total for 2015 is smaller. It's the season during which we
+   had the most deaths in excess of the average.
+
 - The last 3 weeks are not covered in the ISQ data. **The chart will be updated** 
   when available. Until then **we can project the total for the 2020 season to
    46,390** using data from weeks 13 to 15, which has the effect of copying the
