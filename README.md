@@ -39,15 +39,12 @@ Le graphique ci-dessous montre le nombre de décès par semaine depuis 2010,
 - Le début 2020 a commencé comme 2019. L'excès de décès est concentré dans un
   pic tard en saison. 
 
-- L'excès par rapport à la moyenne de la saison 2015 est plus grand que celui de
-  2018, malgré que le total de 2015 soit plus petit. C'est la saison durant
-  laquelle il y a eu le plus de décès en excès de la moyenne.
-
 - Les 3 dernières semaines ne sont pas couvertes dans les données de l'ISQ. **Le
   graphique sera mis à jour** lorsqu'elles seront disponibles. D'ici là **on
   peut projeter le total de la saison 2020 à 46390** en utilisant les données
   des semaines 13 à 15, ce qui a pour effet de copier la forme de la courbe en
-  "miroir". **Ce qui représenterait 6.12% de hausse par rapport à la saison 2018.**
+  "miroir". **Ce qui représenterait 6.12% de hausse par rapport au total de la saison 2018.**
+  ((46390-43713)/43713)
 
 - On ne connaît pas encore l'effet du confinement par rapport aux chirurgies,
   traitement de cancer reportées, crise cardiaques non traitées, etc. Il sera
@@ -79,10 +76,12 @@ Les saisons sont définies ici de novembre à mai (semaines CDC 44 à 22).
   graphique sera mis à jour** lorsqu'elles seront disponibles. D'ici là **on
   peut projeter le total de la saison 2020 à 46390** en utilisant les données
   des semaines 13 à 15, ce qui a pour effet de copier la forme de la courbe en
-  "miroir". **Ce qui représenterait 6.12% de hausse par rapport à la saison 2018.**
-  De ce nombre, on ne connaît pas encore l'effet du confinement par rapport aux
-  chirurgies, traitement de cancer reportées, crise cardiaques non traitées,
-  etc...
+  "miroir". **Ce qui représenterait 6.12% de hausse par rapport au total de la saison 2018.** 
+  ((46390-43713)/43713)
+  
+- On ne connaît pas encore l'effet du confinement par rapport aux chirurgies,
+  traitement de cancer reportées, crise cardiaques non traitées, etc. Il sera
+  sans doute impossible de les séparer...
   
 - Voir NOTES plus bas.
 
