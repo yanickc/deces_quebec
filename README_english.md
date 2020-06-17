@@ -108,7 +108,10 @@ According to the National Institute of Public Health of Quebec: https://www.insp
    
    https://www.stat.gouv.qc.ca/statistiques/population-demographie/deces-mortalite/nombre-hebdomadaire-deces_an.html
 
-2) Recent data contains adjusted provisional data. 
+2) The past data have been adjusted to normalize the evolution of the population of Quebec:
+    https://www.stat.gouv.qc.ca/statistiques/population-demographie
+
+3) Recent data contains adjusted provisional data. 
    
     ISQ:
 

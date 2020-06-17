@@ -117,7 +117,10 @@ D'après l'Institut national de santé publique du Québec: https://www.inspq.qc
    
    https://www.stat.gouv.qc.ca/statistiques/population-demographie/deces-mortalite/nombre-hebdomadaire-deces.html
 
-2) Les données récentes contiennent des données provisoires ajustées. 
+2) Les données passées ont été ajusté pour normaliser l'évolution de la population du Québec:
+   https://www.stat.gouv.qc.ca/statistiques/population-demographie
+
+3) Les données récentes contiennent des données provisoires ajustées. 
    
    ISQ:
 
