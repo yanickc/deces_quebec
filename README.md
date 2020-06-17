@@ -1,10 +1,13 @@
-# Décès par semaine **toutes causes confondues**
+# Décès par semaine au Québec **toutes causes confondues**
 [ [English version here](README_english.md) ]
 
 2020-06-15
 
 Le graphique ci-dessous montre le nombre de décès par semaine depuis 2010,
 **toutes causes confondues**.
+
+- Les données proviennent de l'Institut de la statistique du Québec:
+   https://www.stat.gouv.qc.ca/statistiques/population-demographie/deces-mortalite/nombre-hebdomadaire-deces.html
 
 - La ligne orange représente la moyenne mouvante des 2 années précédentes :
   chaque point de la courbe représente la moyenne des 2 années complètes qui le
@@ -41,9 +44,10 @@ Le graphique ci-dessous montre le nombre de décès par semaine depuis 2010,
   peut projeter le total de la saison 2020 à 46390** en utilisant les données
   des semaines 13 à 15, ce qui a pour effet de copier la forme de la courbe en
   "miroir". **Ce qui représenterait 6.12% de hausse par rapport à la saison 2018.**
-  De ce nombre, on ne connaît pas encore l'effet du confinement par rapport aux
-  chirurgies, traitement de cancer reportées, crise cardiaques non traitées,
-  etc...
+
+- On ne connaît pas encore l'effet du confinement par rapport aux chirurgies,
+  traitement de cancer reportées, crise cardiaques non traitées, etc. Il sera
+  sans doute impossible de les séparer...
   
 - Voir NOTES plus bas.
 
@@ -105,7 +109,7 @@ D'après l'Institut national de santé publique du Québec: https://www.inspq.qc
 
 
 # NOTES:
-1) Les données proviennent de l'Institut de la statistique du Québec.:
+1) Les données proviennent de l'Institut de la statistique du Québec:
    
    https://www.stat.gouv.qc.ca/statistiques/population-demographie/deces-mortalite/nombre-hebdomadaire-deces.html
 

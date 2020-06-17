@@ -1,4 +1,4 @@
-# Deaths per week **all causes combined**
+# Deaths per week in Quebec **all causes combined**
 [ [Version française ici](README.md) ]
 
 2020-06-15
@@ -6,6 +6,7 @@
 The graph below shows the number of deaths per week since 2010,
 **all causes combined**.
 
+- The data comes from the Institut de la statistique du Québec: https://www.stat.gouv.qc.ca/statistiques/population-demographie/deces-mortalite/nombre-hebdomadaire-deces_an.html
 - The orange line represents the moving average of the previous 2 years: each
    point of the curve represents the average of the 2 complete years preceding it.
 
@@ -38,10 +39,12 @@ The graph below shows the number of deaths per week since 2010,
   when available. Until then **we can project the total for the 2020 season to
    46,390** using data from weeks 13 to 15, which has the effect of copying the
    shape of the curve into "mirror". **This would represent a 6.12% increase
-   compared to the 2018 season.**  Of this number, we do not yet know the effect
-   of confinement in relation to postponed surgery, cancer treatment, untreated
-   heart attack, etc ...
-
+   compared to the 2018 season.**  
+   
+- We do not yet know the effect of lockdowns in relations to surgeries,
+   postponed cancer treatment, untreated heart attack, etc. It will be
+   next to impossible to disentangle...
+   
 - See NOTES below.
 
 
@@ -76,7 +79,7 @@ The seasons are defined here from November to May (weeks CDC 44 to 22).
 
 # Répartitions
 
-## Distribution by age group of COVID-related deaths in Quebec
+## Distribution by age group of **COVID-related** deaths in Quebec
 
 According to the National Institute of Public Health of Quebec: https://www.inspq.qc.ca/covid-19/donnees
 
@@ -97,7 +100,7 @@ According to the National Institute of Public Health of Quebec: https://www.insp
 
 
 # NOTES:
-1) The data comes from the Institut de la statistique du Québec .:
+1) The data comes from the Institut de la statistique du Québec:
    
    https://www.stat.gouv.qc.ca/statistiques/population-demographie/deces-mortalite/nombre-hebdomadaire-deces_an.html
 
