@@ -4,8 +4,10 @@
 Last updated: 2020-06-18
 
 ---
+
 **NOTICE**: I am neither a statistician nor an epidemiologist. I have a background in computer engineering and I work
 in the field of AI and machine learning.
+
 ---
 
 #### The graph below shows the number of deaths per week since 2010, **all causes combined**.
