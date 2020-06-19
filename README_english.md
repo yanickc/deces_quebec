@@ -106,7 +106,7 @@ The seasons are defined here from November to May (weeks CDC 44 to 22).
 
 According to the National Institute of Public Health of Quebec: https://www.inspq.qc.ca/covid-19/donnees
 
-![repartition](repartition_groupe_age.png)
+![repartition](images/repartition_groupe_age.png)
 
 
 # NOTES:
