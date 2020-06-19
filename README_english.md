@@ -21,7 +21,7 @@ The graph below shows the number of deaths per week since 2010,
    combined**, above average during each season.
 
 
-![line_graph](line_graph.png)
+![line_graph](line_graph_Total.png)
 
 
 ### Observations
@@ -35,11 +35,12 @@ The graph below shows the number of deaths per week since 2010,
 - The beginning of 2020 started like 2019. The excess death is concentrated in
    one peak late in season.
 
-- The last 3 weeks are not covered in the ISQ data. **The chart will be updated** 
-  when available. Until then **we can project the total for the 2020 season to
-   46,390** using data from weeks 13 to 15, which has the effect of copying the
-   shape of the curve into "mirror". **This would represent a 6.12% increase compared to the 2018 season's total.**  
-   ((46390-43713)/43713)
+- The last week of May is not covered in the ISQ data. **The   chart will be updated** 
+  when available. Until then **we
+   can project the 2020 season total (November to May) to 47,165** using data
+   week 13 (1485), which has the effect of "mirroring" the shape of the curve. 
+   **This would represent 7.88% increase compared to the total for the 2018 season.**
+   ((47165-43713) / 43713) 
    
 - We do not yet know the effect of lockdowns in relations to surgeries,
    postponed cancer treatment, untreated heart attack, etc. It will be
@@ -55,7 +56,7 @@ The bar graph below illustrates the number of deaths per *flu season* since 2010
 The seasons are defined here from November to May (weeks CDC 44 to 22).
 
 
-![bar_graph](bar_graph.png)
+![bar_graph](bar_graph_Total.png)
 
 
 ### Observations
@@ -66,10 +67,11 @@ The seasons are defined here from November to May (weeks CDC 44 to 22).
 
 - We observe a cycle between intense and mild seasons.
 
-- The last 3 weeks are not covered in the ISQ data. **The chart will be updated** 
-  when available. Until then **we can project the total for the 2020 season to 46,390** 
-  using data from weeks 13 to 15, which has the effect of copying the
-  shape of the curve into "mirror". **This would represent a 6.12% increase compared to the 2018 season.**  ((46390-43713)/43713)
+- The last week of May is not covered in the ISQ data. **The   chart will be updated** 
+  when available. Until then **we can project the 2020 season total (November to May) to 47,165** using data
+  week 13 (1485), which has the effect of "mirroring" the shape of the curve. 
+  **This would represent 7.88% increase compared to the total for the 2018 season.**
+  ((47165-43713) / 43713) 
 
 - We do not yet know the effect of lockdowns in relations to surgeries,
    postponed cancer treatment, untreated heart attack, etc. It will be
@@ -79,13 +81,6 @@ The seasons are defined here from November to May (weeks CDC 44 to 22).
 
 
 # Répartitions
-
-## Distribution by age group of **COVID-related** deaths in Quebec
-
-According to the National Institute of Public Health of Quebec: https://www.inspq.qc.ca/covid-19/donnees
-
-![repartition](repartition_groupe_age.png)
-
 
 ## Distribution by age group of deaths **all causes combined** in Quebec
 
@@ -98,6 +93,11 @@ According to the National Institute of Public Health of Quebec: https://www.insp
 ![bar_graph](bar_graph_0-49_ans.png)
 
 
+## Distribution by age group of **COVID-related** deaths in Quebec
+
+According to the National Institute of Public Health of Quebec: https://www.inspq.qc.ca/covid-19/donnees
+
+![repartition](repartition_groupe_age.png)
 
 
 # NOTES:
