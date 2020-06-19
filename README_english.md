@@ -10,7 +10,7 @@ in the field of AI and machine learning.
 
 ---
 
-#### The graph below shows the number of deaths per week since 2010, **all causes combined**.
+### The graph below shows the number of deaths per week since 2010, **all causes combined**.
 
 - The data comes from the *Institut de la statistique du Québec*: 
   https://www.stat.gouv.qc.ca/statistiques/population-demographie/deces-mortalite/nombre-hebdomadaire-deces_an.html
@@ -30,10 +30,10 @@ in the field of AI and machine learning.
   It denotes the number of deaths from **all causes combined**, above average during each season.
 
 
-![line_graph](line_graph_Total.png)
+![line_graph](images/line_graph_Total.png)
 
 
-#### Observations
+### Observations
 
 - Note the seasons 2013, 2015 and 2018 where there is a large surplus of deaths.
 
@@ -65,10 +65,10 @@ The bar graph below illustrates the number of deaths per *flu season* since 2010
 The seasons are defined here from November to May (weeks CDC 44 to 22).
 
 
-![bar_graph](bar_graph_Total.png)
+![bar_graph](images/bar_graph_Total.png)
 
 
-#### Observations
+### Observations
 
 - Note the seasons 2013, 2015 and 2018 where there is a large surplus of deaths.
 
@@ -91,7 +91,7 @@ The seasons are defined here from November to May (weeks CDC 44 to 22).
 
 # Distributions
 
-#### Distribution by age group of deaths **all causes combined** in Quebec
+### Distribution by age group of deaths **all causes combined** in Quebec
 
 ![line_graph](images/line_graph_70_ans_et_plus.png)
 ![line_graph](images/line_graph_50-69_ans.png)
@@ -102,7 +102,7 @@ The seasons are defined here from November to May (weeks CDC 44 to 22).
 ![bar_graph](images/bar_graph_0-49_ans.png)
 
 
-#### Distribution by age group of **COVID-related** deaths in Quebec
+### Distribution by age group of **COVID-related** deaths in Quebec
 
 According to the National Institute of Public Health of Quebec: https://www.inspq.qc.ca/covid-19/donnees
 
