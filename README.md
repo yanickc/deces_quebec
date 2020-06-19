@@ -4,8 +4,10 @@
 Dernière mise à jour: 2020-06-18
 
 ---
+
 **NOTE**: Je ne suis ni statisticien, ni epidémiologue. J'ai une formation en génie informatique et je travaille
 dans le domaine de l'IA et de l'apprentissage automatique.
+
 --- 
 
 Le graphique ci-dessous montre le nombre de décès par semaine depuis 2010,
