@@ -25,7 +25,7 @@ Le graphique ci-dessous montre le nombre de décès par semaine depuis 2010,
   confondues**, au dessus de la moyenne pour chaque saison.
 
 
-![line_graph](line_graph.png)
+![line_graph](line_graph_Total.png)
 
 
 ### Observations
@@ -39,12 +39,12 @@ Le graphique ci-dessous montre le nombre de décès par semaine depuis 2010,
 - Le début 2020 a commencé comme 2019. L'excès de décès est concentré dans un
   pic tard en saison. 
 
-- Les 3 dernières semaines ne sont pas couvertes dans les données de l'ISQ. **Le
+- La dernière semaine du mois de mai n'est pas couverte dans les données de l'ISQ. **Le
   graphique sera mis à jour** lorsqu'elles seront disponibles. D'ici là **on
-  peut projeter le total de la saison 2020 à 46390** en utilisant les données
-  des semaines 13 à 15, ce qui a pour effet de copier la forme de la courbe en
-  "miroir". **Ce qui représenterait 6.12% de hausse par rapport au total de la saison 2018.**
-  ((46390-43713)/43713)
+  peut projeter le total de la saison 2020 (novembre à mai) à 47165** en utilisant les données
+  de la semaine 13 (1485), ce qui a pour effet de copier la forme de la courbe en
+  "miroir". **Ceci représenterait 7.88% de hausse par rapport au total de la saison 2018.**
+  ((47165-43713)/43713)
 
 - On ne connaît pas encore l'effet du confinement par rapport aux chirurgies,
   traitement de cancer reportées, crise cardiaques non traitées, etc. Il sera
@@ -61,7 +61,7 @@ Le graphique à barres ci-dessous illustre le nombre de décès par saison gripp
 Les saisons sont définies ici de novembre à mai (semaines CDC 44 à 22).
 
 
-![bar_graph](bar_graph.png)
+![bar_graph_Total](bar_graph_Total.png)
 
 
 ### Observations
@@ -88,14 +88,6 @@ Les saisons sont définies ici de novembre à mai (semaines CDC 44 à 22).
 
 # Répartitions
 
-
-## Répartition par groupe d'âge des décès **liées à la COVID** au Québec
-
-D'après l'Institut national de santé publique du Québec: https://www.inspq.qc.ca/covid-19/donnees
-
-![repartition](repartition_groupe_age.png)
-
-
 ## Répartition par groupe d'âge des décès **toutes causes confondues** au Québec
 
 ![line_graph](line_graph_70_ans_et_plus.png)
@@ -107,8 +99,11 @@ D'après l'Institut national de santé publique du Québec: https://www.inspq.qc
 ![bar_graph](bar_graph_0-49_ans.png)
 
 
+## Répartition par groupe d'âge des décès **liées à la COVID** au Québec
 
+D'après l'Institut national de santé publique du Québec: https://www.inspq.qc.ca/covid-19/donnees
 
+![repartition](repartition_groupe_age.png)
 
 
 # NOTES:
