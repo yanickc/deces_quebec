@@ -10,47 +10,49 @@ in the field of AI and machine learning.
 
 ---
 
-### The graph below shows the number of deaths per week since 2010, **all causes combined**.
+The graph below shows the number of deaths per week in Quebec, **all causes combined**.
 
 - The data comes from the *Institut de la statistique du Québec*: 
   https://www.stat.gouv.qc.ca/statistiques/population-demographie/deces-mortalite/nombre-hebdomadaire-deces_an.html
 
 - The blue line represents the number of deaths per week, **all causes combined**
 
-- The orange line represents the moving average of the previous 2 years: each
-   point of the curve represents the average of the 2 complete years preceding it.
+- The dotted line represents the average of the previous 5 years, per week.
 
 - The gray areas represent the *flu season* defined here from November to May
    (weeks CDC 44 to 22).
 
 - The total of **all-cause deaths** during each season is shown in blue in the
-   header. It represents the sum of the blue and red areas for each season.
+   header. It represents the sum of the weeks for each season.
 
-- The excess of deaths compared to the average of the previous 5 years for each week is represented by the red surface.
-  It denotes the number of deaths from **all causes combined**, above average during each season.
-
-
-![line_graph](images/line_graph_Total.png)
+- The excess of deaths compared to the average is represented by the red / green surface.
+  It denotes the number of deaths from **all causes combined**, above / under average during each season.
 
 
-### Observations
+![line_graph](images/line_graph_Total_(2014-2020).png)
+![line_graph](images/line_graph_Total_(2016-2020).png)
+![line_graph](images/line_graph_Total_(2010-2020).png)
+
+
+## Observations
 
 - Note the seasons 2013, 2015 and 2018 where there is a large surplus of deaths.
 
-- The 2016 and 2019 seasons were more lenient.
+- The 2016-2017 and 2019-beginning-of-2020 seasons were more lenient.
 
 - We observe a cycle between intense and mild seasons.
 
 - The beginning of 2020 started like 2019, lower than the average. 
 
-- in 2020, the excess death is concentrated in one peak late in the season.
+- In 2020, the excess death is concentrated in one peak late in the season.
 
-- The last week of May is not covered in the ISQ data. **The chart will be updated** 
-  when available. Until then **we can project the 2020 season total (November to May) to 47,165** using data
-  week 13 (1485), which has the effect of "mirroring" the shape of the curve. 
-  **This would represent 7.88% increase compared to the total for the 2018 season.**
-  ((47165-43713) / 43713) 
+- The last weeks of May are "preliminary" the ISQ data. **The chart will be updated** 
+  when available.**
+
+- The excess death in 2020 is 10.75%.  In 2015, it was 7.86%.
    
+- The 2020 season total is 7.79% higher than the total for the 2018 season. ((47120-43714)/43714)
+
 - It is **impossible to quantify the number of deaths caused by the lockdown** with this dataset.
   We do not yet know the effect of lockdowns in relations to surgeries,
   postponed cancer treatment, untreated heart attack, etc. **It will be next to impossible to disentangle...**
@@ -60,46 +62,33 @@ in the field of AI and machine learning.
 
 # Total deaths per flu season in Quebec **all causes combined**
 
-The bar graph below illustrates the number of deaths per *flu season* since 2010, **all causes combined**.
+The bar graph below illustrates the number of deaths per *flu season* since 2011, **all causes combined**.
 
 The seasons are defined here from November to May (weeks CDC 44 to 22).
 
 
-![bar_graph](images/bar_graph_Total.png)
+![bar_graph_Total](images/bar_graph_Total_(2011-2020).png)
 
 
-### Observations
+# Distribution by age group of deaths **all causes combined** in Quebec
 
-- Note the seasons 2013, 2015 and 2018 where there is a large surplus of deaths.
+## 70 year and +
+![line_graph](images/line_graph_70_ans_et_plus_(2014-2020).png)
+![line_graph](images/line_graph_70_ans_et_plus_(2016-2020).png)
+![line_graph](images/line_graph_70_ans_et_plus_(2010-2020).png)
+![bar_graph](images/bar_graph_70_ans_et_plus_(2011-2020).png)
 
-- The 2016 and 2019 seasons were more lenient.
+## 50 to 69 years
+![line_graph](images/line_graph_50-69_ans_(2014-2020).png)
+![line_graph](images/line_graph_50-69_ans_(2016-2020).png)
+![line_graph](images/line_graph_50-69_ans_(2010-2020).png)
+![bar_graph](images/bar_graph_50-69_ans_(2011-2020).png)
 
-- We observe a cycle between intense and mild seasons.
-
-- The last week of May is not covered in the ISQ data. **The charts will be updated** 
-  when available. Until then **we can project the 2020 season total (November to May) to 47,165** using data
-  week 13 (1485), which has the effect of "mirroring" the shape of the curve. 
-  **This would represent 7.88% increase compared to the total for the 2018 season.**
-  ((47165-43713) / 43713) 
-
-- It is **impossible to quantify the number of deaths caused by the lockdown** with this dataset.
-  We do not yet know the effect of lockdowns in relations to surgeries,
-  postponed cancer treatment, untreated heart attack, etc. **It will be next to impossible to disentangle...**
-  
-- See NOTES below.
-
-
-# Distributions
-
-### Distribution by age group of deaths **all causes combined** in Quebec
-
-![line_graph](images/line_graph_70_ans_et_plus.png)
-![line_graph](images/line_graph_50-69_ans.png)
-![line_graph](images/line_graph_0-49_ans.png)
-
-![bar_graph](images/bar_graph_70_ans_et_plus.png)
-![bar_graph](images/bar_graph_50-69_ans.png)
-![bar_graph](images/bar_graph_0-49_ans.png)
+## 0 to 49 years
+![line_graph](images/line_graph_0-49_ans_(2014-2020).png)
+![line_graph](images/line_graph_0-49_ans_(2016-2020).png)
+![line_graph](images/line_graph_0-49_ans_(2010-2020).png)
+![bar_graph](images/bar_graph_0-49_ans_(2011-2020).png)
 
 
 ### Distribution by age group of **COVID-related** deaths in Quebec

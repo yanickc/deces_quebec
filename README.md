@@ -10,7 +10,7 @@ dans le domaine de l'IA et de l'apprentissage automatique.
 
 --- 
 
-Le graphique ci-dessous montre le nombre de décès par semaine depuis 2010,
+Le graphique ci-dessous montre le nombre de décès par semaine au Québec,
 **toutes causes confondues**.
 
 - Les données proviennent de l'*Institut de la statistique du Québec*:
@@ -18,27 +18,29 @@ Le graphique ci-dessous montre le nombre de décès par semaine depuis 2010,
    
 - La ligne bleue représente le nombre de décès **toutes causes confondues** pour chaque semaine.
 
-- La ligne orange représente la moyenne des 5 années précédentes pour chaque semaine.
-  La zone orange représente l'intervalle de confiance de 1 écart type de la moyenne. 
+- La ligne pointillée représente la moyenne des 5 années précédentes pour chaque semaine.
   
 - Les zones grises représentent la *saison grippale* définie ici de novembre à
   mai (semaines CDC 44 à 22).
 
 - Le total des décès **toutes causes confondues** durant chaque saison est inscrit en bleu
-  en en-tête. Il représente la somme des surfaces bleue et rouge pour chaque saison.
+  en en-tête. Il représente la somme des semaines pour chaque saison grippales.
 
-- L'excès de décès par rapport à la moyenne des 5 années précédentes pour chaque semaine est
-  représenté par la surface rouge. Il dénote le nombre de décès **toutes causes confondues**, au dessus de la moyenne pour chaque saison.
-
-
-![line_graph](images/line_graph_Total.png)
+- L'excès de décès par rapport à la moyenne est
+  représenté par la surface rouge / vert. Il dénote le nombre de décès **toutes causes confondues**, 
+  au- dessus / en-dessous de la moyenne pour chaque saison.
 
 
-### Observations
+![line_graph](images/line_graph_Total_(2014-2020).png)
+![line_graph](images/line_graph_Total_(2016-2020).png)
+![line_graph](images/line_graph_Total_(2010-2020).png)
+
+
+## Observations
 
 - Notez les saisons 2013, 2015 et 2018 où il y a un fort surplus de décès.
 
-- Les saisons 2016 et 2019 ont été plus clémentes.
+- Les saisons 2016-2017 et 2019-début-2020 ont été plus clémentes.
 
 - On observe un cycle entre saisons intenses et clémentes.
 
@@ -46,12 +48,12 @@ Le graphique ci-dessous montre le nombre de décès par semaine depuis 2010,
 
 - En 2020, l'excès de décès est concentré dans un pic tard en saison. 
 
-- La dernière semaine du mois de mai n'est pas couverte dans les données de l'ISQ. **Le
-  graphique sera mis à jour** lorsqu'elles seront disponibles. D'ici là **on
-  peut projeter le total de la saison 2020 (novembre à mai) à 47165** en utilisant les données
-  de la semaine 13 (1485), ce qui a pour effet de copier la forme de la courbe en
-  "miroir". **Ceci représenterait 7.88% de hausse par rapport au total de la saison 2018.**
-  ((47165-43713)/43713)
+- Les dernières semaines du mois de mai sont "provisoires" dans les données de l'ISQ. **Le
+  graphique sera mis à jour** lorsqu'elles seront mises à jour.  
+  
+- L'excès de 2020 est de 10.75%.  Celui de 2015 est de 7.86%
+
+- Le total de la saison 2020 est 7.79% plus élevé que celui de la saison 2018. ((47120-43714)/43714)
 
 - **Il est impossible avec ces données de quantifier le nombre de décès causés par le confinement.**
   On ne connaît pas encore l'effet du confinement par rapport aux chirurgies,
@@ -64,51 +66,36 @@ Le graphique ci-dessous montre le nombre de décès par semaine depuis 2010,
 
 # Total des décès par saison grippale au Québec **toutes causes confondues**
 
-Le graphique à barres ci-dessous illustre le nombre de décès par saison grippale depuis 2010, **toutes causes confondues**.
+Le graphique à barres ci-dessous illustre le nombre de décès par saison grippale depuis 2011, **toutes causes confondues**.
 
 Les saisons sont définies ici de novembre à mai (semaines CDC 44 à 22).
 
 
-![bar_graph_Total](images/bar_graph_Total.png)
+![bar_graph_Total](images/bar_graph_Total_(2011-2020).png)
 
 
-### Observations
+# Répartition par groupe d'âge des décès **toutes causes confondues** au Québec
 
-- Notez les saisons 2013, 2015 et 2018 où il y a un fort surplus de décès.
+## 70 ans et +
+![line_graph](images/line_graph_70_ans_et_plus_(2014-2020).png)
+![line_graph](images/line_graph_70_ans_et_plus_(2016-2020).png)
+![line_graph](images/line_graph_70_ans_et_plus_(2010-2020).png)
+![bar_graph](images/bar_graph_70_ans_et_plus_(2011-2020).png)
 
-- Les saisons 2016 et 2019 ont été plus clémentes.
+## 50 à 69 ans
+![line_graph](images/line_graph_50-69_ans_(2014-2020).png)
+![line_graph](images/line_graph_50-69_ans_(2016-2020).png)
+![line_graph](images/line_graph_50-69_ans_(2010-2020).png)
+![bar_graph](images/bar_graph_50-69_ans_(2011-2020).png)
 
-- On observe un cycle entre saisons intenses et clémentes.
-
-- La dernière semaine du mois de mai n'est pas couverte dans les données de l'ISQ. **Le
-  graphique sera mis à jour** lorsqu'elles seront disponibles. D'ici là **on
-  peut projeter le total de la saison 2020 (novembre à mai) à 47165** en utilisant les données
-  de la semaine 13 (1485), ce qui a pour effet de copier la forme de la courbe en
-  "miroir". **Ceci représenterait 7.88% de hausse par rapport au total de la saison 2018.**
-  ((47165-43713)/43713)
-  
-- **Il est impossible avec ces données de quantifier le nombre de décès causés par le confinement.**
-  On ne connaît pas encore l'effet du confinement par rapport aux chirurgies,
-  traitement de cancer reportées, crise cardiaques non traitées, etc. **Il sera
-  sans doute impossible de les séparer...** 
-  
-- Voir NOTES plus bas.
+## 0 à 49 ans
+![line_graph](images/line_graph_0-49_ans_(2014-2020).png)
+![line_graph](images/line_graph_0-49_ans_(2016-2020).png)
+![line_graph](images/line_graph_0-49_ans_(2010-2020).png)
+![bar_graph](images/bar_graph_0-49_ans_(2011-2020).png)
 
 
-# Répartitions
-
-## Répartition par groupe d'âge des décès **toutes causes confondues** au Québec
-
-![line_graph](images/line_graph_70_ans_et_plus.png)
-![line_graph](images/line_graph_50-69_ans.png)
-![line_graph](images/line_graph_0-49_ans.png)
-
-![bar_graph](images/bar_graph_70_ans_et_plus.png)
-![bar_graph](images/bar_graph_50-69_ans.png)
-![bar_graph](images/bar_graph_0-49_ans.png)
-
-
-## Répartition par groupe d'âge des décès **liées à la COVID** au Québec
+# Répartition par groupe d'âge des décès **liées à la COVID** au Québec
 
 D'après l'Institut national de santé publique du Québec: https://www.inspq.qc.ca/covid-19/donnees
 
