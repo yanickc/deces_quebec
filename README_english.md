@@ -1,7 +1,7 @@
 # Deaths per week in Quebec **all causes combined**
 [ [Version française ici](README.md) ]
 
-Last updated: 2020-06-18
+Last updated: 2020-07-03
 
 ---
 
