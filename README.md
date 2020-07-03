@@ -13,6 +13,8 @@ dans le domaine de l'IA et de l'apprentissage automatique.
 Le graphique ci-dessous montre le nombre de décès par semaine au Québec,
 **toutes causes confondues**.
 
+(Cliquer pour grossir)
+
 - Les données proviennent de l'*Institut de la statistique du Québec*:
    https://www.stat.gouv.qc.ca/statistiques/population-demographie/deces-mortalite/nombre-hebdomadaire-deces.html
    

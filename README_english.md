@@ -12,6 +12,8 @@ in the field of AI and machine learning.
 
 The graph below shows the number of deaths per week in Quebec, **all causes combined**.
 
+(Click to zoom)
+
 - The data comes from the *Institut de la statistique du Québec*: 
   https://www.stat.gouv.qc.ca/statistiques/population-demographie/deces-mortalite/nombre-hebdomadaire-deces_an.html
 
