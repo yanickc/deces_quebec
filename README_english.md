@@ -1,7 +1,7 @@
 # Deaths per week in Quebec **all causes combined**
 [ [Version française ici](README.md) ]
 
-Last updated: 2020-07-03
+Last updated: 2020-07-17
 
 ---
 
@@ -93,11 +93,17 @@ The seasons are defined here from November to May (weeks CDC 44 to 22).
 ![bar_graph](images/bar_graph_0-49_ans_(2011-2020).png)
 
 
-### Distribution by age group of **COVID-related** deaths in Quebec
+# Distribution by age group of **COVID-related** deaths in Quebec
 
 According to the National Institute of Public Health of Quebec: https://www.inspq.qc.ca/covid-19/donnees
 
 ![repartition](images/repartition_groupe_age.png)
+
+# Distribution by living environment of **COVID-related** deaths in Quebec
+
+D'après l'Institut national de santé publique du Québec: https://www.inspq.qc.ca/covid-19/donnees
+
+![repartition](images/repartition.png)
 
 
 # NOTES:

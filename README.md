@@ -1,7 +1,7 @@
 # Décès par semaine au Québec **toutes causes confondues**
 [ [English version here](README_english.md) ]
 
-Dernière mise à jour: 2020-07-03
+Dernière mise à jour: 2020-07-17
 
 ---
 
@@ -102,6 +102,13 @@ Les saisons sont définies ici de novembre à mai (semaines CDC 44 à 22).
 D'après l'Institut national de santé publique du Québec: https://www.inspq.qc.ca/covid-19/donnees
 
 ![repartition](images/repartition_groupe_age.png)
+
+
+# Répartition par milieu de vie des décès **liées à la COVID** au Québec
+
+D'après l'Institut national de santé publique du Québec: https://www.inspq.qc.ca/covid-19/donnees
+
+![repartition](images/repartition.png)
 
 
 # NOTES:
