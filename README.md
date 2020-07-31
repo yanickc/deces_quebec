@@ -1,7 +1,7 @@
 # Décès par semaine au Québec **toutes causes confondues**
 [ [English version here](README_english.md) ]
 
-Dernière mise à jour: 2020-07-17
+Dernière mise à jour: 2020-07-31
 
 ---
 
