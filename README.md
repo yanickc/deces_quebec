@@ -88,22 +88,22 @@ Les saisons sont définies ici de novembre à mai (semaines CDC 44 à 22).
 # Répartition par groupe d'âge des décès **toutes causes confondues** au Québec
 
 ## 70 ans et +
-![line_graph](images/line_graph_70_ans_et_plus_(2014-2020).png)
 ![line_graph](images/line_graph_70_ans_et_plus_(2016-2020).png)
+![line_graph](images/line_graph_70_ans_et_plus_(2014-2020).png)
 ![line_graph](images/line_graph_70_ans_et_plus_(2010-2020).png)
 ![bar_graph_first_months](images/bar_graph_first_months_70_ans_et_plus_(2011-2020).png)
 ![bar_graph](images/bar_graph_70_ans_et_plus_(2011-2020).png)
 
 ## 50 à 69 ans
-![line_graph](images/line_graph_50-69_ans_(2014-2020).png)
 ![line_graph](images/line_graph_50-69_ans_(2016-2020).png)
+![line_graph](images/line_graph_50-69_ans_(2014-2020).png)
 ![line_graph](images/line_graph_50-69_ans_(2010-2020).png)
 ![bar_graph_first_months](images/bar_graph_first_months_50-69_ans_(2011-2020).png)
 ![bar_graph](images/bar_graph_50-69_ans_(2011-2020).png)
 
 ## 0 à 49 ans
-![line_graph](images/line_graph_0-49_ans_(2014-2020).png)
 ![line_graph](images/line_graph_0-49_ans_(2016-2020).png)
+![line_graph](images/line_graph_0-49_ans_(2014-2020).png)
 ![line_graph](images/line_graph_0-49_ans_(2010-2020).png)
 ![bar_graph_first_months](images/bar_graph_first_months_0-49_ans_(2011-2020).png)
 ![bar_graph](images/bar_graph_0-49_ans_(2011-2020).png)

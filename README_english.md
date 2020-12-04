@@ -85,22 +85,22 @@ The seasons are defined here from November to May (weeks CDC 44 to 22).
 # Distribution by age group of deaths **all causes combined** in Quebec
 
 ## 70 year and +
-![line_graph](images/line_graph_70_ans_et_plus_(2014-2020).png)
 ![line_graph](images/line_graph_70_ans_et_plus_(2016-2020).png)
+![line_graph](images/line_graph_70_ans_et_plus_(2014-2020).png)
 ![line_graph](images/line_graph_70_ans_et_plus_(2010-2020).png)
 ![bar_graph_first_months](images/bar_graph_first_months_70_ans_et_plus_(2011-2020).png)
 ![bar_graph](images/bar_graph_70_ans_et_plus_(2011-2020).png)
 
 ## 50 to 69 years
-![line_graph](images/line_graph_50-69_ans_(2014-2020).png)
 ![line_graph](images/line_graph_50-69_ans_(2016-2020).png)
+![line_graph](images/line_graph_50-69_ans_(2014-2020).png)
 ![line_graph](images/line_graph_50-69_ans_(2010-2020).png)
 ![bar_graph_first_months](images/bar_graph_first_months_50-69_ans_(2011-2020).png)
 ![bar_graph](images/bar_graph_50-69_ans_(2011-2020).png)
 
 ## 0 to 49 years
-![line_graph](images/line_graph_0-49_ans_(2014-2020).png)
 ![line_graph](images/line_graph_0-49_ans_(2016-2020).png)
+![line_graph](images/line_graph_0-49_ans_(2014-2020).png)
 ![line_graph](images/line_graph_0-49_ans_(2010-2020).png)
 ![bar_graph_first_months](images/bar_graph_first_months_0-49_ans_(2011-2020).png)
 ![bar_graph](images/bar_graph_0-49_ans_(2011-2020).png)
