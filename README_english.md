@@ -14,7 +14,7 @@ The data comes from the *Institut de la statistique du Québec*:
   https://statistique.quebec.ca/en/document/weekly-number-of-deaths-in-quebec/tableau/deces-par-semaine-selon-le-groupe-dage-quebec
 
 The population for each year is normalized following:
-  https://www.stat.gouv.qc.ca/statistiques/population-demographie
+  https://statistique.quebec.ca/en/document/population-and-age-and-sex-structure-quebec/tableau/population-of-quebec
 
 ---
 

@@ -14,7 +14,7 @@ Les données proviennent de l'*Institut de la statistique du Québec*:
   https://statistique.quebec.ca/fr/document/nombre-hebdomadaire-de-deces-au-quebec/tableau/deces-par-semaine-selon-le-groupe-dage-quebec
 
 La population de chaque année est normalisée selon:
-  https://www.stat.gouv.qc.ca/statistiques/population-demographie
+  https://statistique.quebec.ca/fr/document/population-et-structure-par-age-et-sexe-le-quebec/tableau/estimation-de-la-population-du-quebec
 
 ---
 
