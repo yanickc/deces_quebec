@@ -1,11 +1,11 @@
 # Décès par semaine au Québec **toutes causes confondues**
 [ [English version here](README_english.md) ]
 
-Dernière mise à jour: 2020-08-28
+Dernière mise à jour: 2020-12-03
 
 ---
 
-**NOTE**: Je ne suis ni statisticien, ni epidémiologue. J'ai une formation en génie informatique et je travaille
+**NOTE**: Je ne suis ni statisticien, ni épidémiologue. J'ai une formation en génie informatique et je travaille
 dans le domaine de l'IA et de l'apprentissage automatique.
 
 --- 
@@ -16,7 +16,10 @@ Le graphique ci-dessous montre le nombre de décès par semaine au Québec,
 (Cliquer pour grossir)
 
 - Les données proviennent de l'*Institut de la statistique du Québec*:
-   https://www.stat.gouv.qc.ca/statistiques/population-demographie/deces-mortalite/nombre-hebdomadaire-deces.html
+  https://statistique.quebec.ca/fr/document/nombre-hebdomadaire-de-deces-au-quebec/tableau/deces-par-semaine-selon-le-groupe-dage-quebec
+
+- La population de chaque année est normalisée selon:
+  https://www.stat.gouv.qc.ca/statistiques/population-demographie
    
 - La ligne bleue représente le nombre de décès **toutes causes confondues** pour chaque semaine.
 
@@ -26,11 +29,11 @@ Le graphique ci-dessous montre le nombre de décès par semaine au Québec,
   mai (semaines CDC 44 à 22).
 
 - Le total des décès **toutes causes confondues** durant chaque saison est inscrit en bleu
-  en en-tête. Il représente la somme des semaines pour chaque saison grippales.
+  en en-tête. Il représente la somme des semaines pour chaque saison grippale.
 
 - L'excès de décès par rapport à la moyenne est
   représenté par la surface rouge / vert. Il dénote le nombre de décès **toutes causes confondues**, 
-  au- dessus / en-dessous de la moyenne pour chaque saison.
+  au- dessus / en dessous de la moyenne pour chaque saison.
 
 
 ![line_graph](images/line_graph_Total_(2014-2020).png)
@@ -65,6 +68,12 @@ Le graphique ci-dessous montre le nombre de décès par semaine au Québec,
 - Voir NOTES plus bas.
 
 
+# Total des décès pour les N premières semaines de chaque année au Québec **toutes causes confondues**
+
+Le graphique à barres ci-dessous illustre le nombre de décès pour les N premières semaine de chaue année depuis 2011, **toutes causes confondues**.
+
+![bar_graph_first_months_Total](images/bar_graph_first_months_Total_(2011-2020).png)
+
 
 # Total des décès par saison grippale au Québec **toutes causes confondues**
 
@@ -82,18 +91,21 @@ Les saisons sont définies ici de novembre à mai (semaines CDC 44 à 22).
 ![line_graph](images/line_graph_70_ans_et_plus_(2014-2020).png)
 ![line_graph](images/line_graph_70_ans_et_plus_(2016-2020).png)
 ![line_graph](images/line_graph_70_ans_et_plus_(2010-2020).png)
+![bar_graph_first_months](images/bar_graph_first_months_70_ans_et_plus_(2011-2020).png)
 ![bar_graph](images/bar_graph_70_ans_et_plus_(2011-2020).png)
 
 ## 50 à 69 ans
 ![line_graph](images/line_graph_50-69_ans_(2014-2020).png)
 ![line_graph](images/line_graph_50-69_ans_(2016-2020).png)
 ![line_graph](images/line_graph_50-69_ans_(2010-2020).png)
+![bar_graph_first_months](images/bar_graph_first_months_50-69_ans_(2011-2020).png)
 ![bar_graph](images/bar_graph_50-69_ans_(2011-2020).png)
 
 ## 0 à 49 ans
 ![line_graph](images/line_graph_0-49_ans_(2014-2020).png)
 ![line_graph](images/line_graph_0-49_ans_(2016-2020).png)
 ![line_graph](images/line_graph_0-49_ans_(2010-2020).png)
+![bar_graph_first_months](images/bar_graph_first_months_0-49_ans_(2011-2020).png)
 ![bar_graph](images/bar_graph_0-49_ans_(2011-2020).png)
 
 

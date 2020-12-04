@@ -1,11 +1,11 @@
 # Deaths per week in Quebec **all causes combined**
 [ [Version française ici](README.md) ]
 
-Last updated: 2020-08-28
+Last updated: 2020-12-03
 
 ---
 
-**NOTICE**: I am neither a statistician nor an epidemiologist. I have a background in computer engineering and I work
+**DISCLAIMER**: I am neither a statistician nor an epidemiologist. I have a background in computer engineering and I work
 in the field of AI and machine learning.
 
 ---
@@ -15,7 +15,10 @@ The graph below shows the number of deaths per week in Quebec, **all causes comb
 (Click to zoom)
 
 - The data comes from the *Institut de la statistique du Québec*: 
-  https://www.stat.gouv.qc.ca/statistiques/population-demographie/deces-mortalite/nombre-hebdomadaire-deces_an.html
+  https://statistique.quebec.ca/en/document/weekly-number-of-deaths-in-quebec/tableau/deces-par-semaine-selon-le-groupe-dage-quebec
+
+- The population for each year is normalized following:
+  https://www.stat.gouv.qc.ca/statistiques/population-demographie
 
 - The blue line represents the number of deaths per week, **all causes combined**
 
@@ -62,6 +65,13 @@ The graph below shows the number of deaths per week in Quebec, **all causes comb
 - See NOTES below.
 
 
+# Total deaths for the first N weeks of eahc year in Quebec **all causes combined**
+
+The bar graph below illustrates the number of deaths during the first N weeks of each year since 2011, **all causes
+combined**.
+
+![bar_graph_first_months_Total](images/bar_graph_first_months_Total_(2011-2020).png)
+
 # Total deaths per flu season in Quebec **all causes combined**
 
 The bar graph below illustrates the number of deaths per *flu season* since 2011, **all causes combined**.
@@ -78,18 +88,21 @@ The seasons are defined here from November to May (weeks CDC 44 to 22).
 ![line_graph](images/line_graph_70_ans_et_plus_(2014-2020).png)
 ![line_graph](images/line_graph_70_ans_et_plus_(2016-2020).png)
 ![line_graph](images/line_graph_70_ans_et_plus_(2010-2020).png)
+![bar_graph_first_months](images/bar_graph_first_months_70_ans_et_plus_(2011-2020).png)
 ![bar_graph](images/bar_graph_70_ans_et_plus_(2011-2020).png)
 
 ## 50 to 69 years
 ![line_graph](images/line_graph_50-69_ans_(2014-2020).png)
 ![line_graph](images/line_graph_50-69_ans_(2016-2020).png)
 ![line_graph](images/line_graph_50-69_ans_(2010-2020).png)
+![bar_graph_first_months](images/bar_graph_first_months_50-69_ans_(2011-2020).png)
 ![bar_graph](images/bar_graph_50-69_ans_(2011-2020).png)
 
 ## 0 to 49 years
 ![line_graph](images/line_graph_0-49_ans_(2014-2020).png)
 ![line_graph](images/line_graph_0-49_ans_(2016-2020).png)
 ![line_graph](images/line_graph_0-49_ans_(2010-2020).png)
+![bar_graph_first_months](images/bar_graph_first_months_0-49_ans_(2011-2020).png)
 ![bar_graph](images/bar_graph_0-49_ans_(2011-2020).png)
 
 
