@@ -1,26 +1,38 @@
-# Décès par semaine au Québec **toutes causes confondues**
+# Décès au Québec **toutes causes confondues**
 [ [English version here](README_english.md) ]
 
-Dernière mise à jour: 2020-12-03
+Dernière mise à jour: 2020-12-04
 
 ---
 
 **NOTE**: Je ne suis ni statisticien, ni épidémiologue. J'ai une formation en génie informatique et je travaille
 dans le domaine de l'IA et de l'apprentissage automatique.
 
---- 
+---
 
-Le graphique ci-dessous montre le nombre de décès par semaine au Québec,
-**toutes causes confondues**.
+Les données proviennent de l'*Institut de la statistique du Québec*:
+  https://statistique.quebec.ca/fr/document/nombre-hebdomadaire-de-deces-au-quebec/tableau/deces-par-semaine-selon-le-groupe-dage-quebec
+
+La population de chaque année est normalisée selon:
+  https://www.stat.gouv.qc.ca/statistiques/population-demographie
+
+---
+
+# Décès pour les N premières semaines de chaque année au Québec, **toutes causes confondues**
+
+Le graphique à barres ci-dessous illustre le nombre total de décès pour les N premières semaines de chaque année depuis
+2011, **toutes causes confondues**.
 
 (Cliquer pour grossir)
 
-- Les données proviennent de l'*Institut de la statistique du Québec*:
-  https://statistique.quebec.ca/fr/document/nombre-hebdomadaire-de-deces-au-quebec/tableau/deces-par-semaine-selon-le-groupe-dage-quebec
 
-- La population de chaque année est normalisée selon:
-  https://www.stat.gouv.qc.ca/statistiques/population-demographie
-   
+![bar_graph_first_months_Total](images/bar_graph_first_months_Total_(2011-2020).png)
+
+Le graphique ci-dessous montre le nombre de décès par semaine au Québec,
+**toutes causes confondues** :
+
+![line_graph](images/line_graph_Total_(2010-2020).png)
+
 - La ligne bleue représente le nombre de décès **toutes causes confondues** pour chaque semaine.
 
 - La ligne pointillée représente la moyenne des 5 années précédentes pour chaque semaine.
@@ -36,12 +48,11 @@ Le graphique ci-dessous montre le nombre de décès par semaine au Québec,
   au- dessus / en dessous de la moyenne pour chaque saison.
 
 
-![line_graph](images/line_graph_Total_(2014-2020).png)
-![line_graph](images/line_graph_Total_(2016-2020).png)
-![line_graph](images/line_graph_Total_(2010-2020).png)
-
-
 ## Observations
+
+- Comparez le graphique à barres avec la courbe. Notez que malgré le pic d'hiver 2020, la somme des décès est comparable
+aux années précédentes. Ceci peut sembler contre intuitif... Il faut noter que le pic est plus haut mais plus étroit que
+celui de 2018 par exemple. Aussi, notez que le graphique à barre est par 100 000 habitants.
 
 - Notez les saisons 2013, 2015 et 2018 où il y a un fort surplus de décès.
 
@@ -66,13 +77,23 @@ Le graphique ci-dessous montre le nombre de décès par semaine au Québec,
   sans doute impossible de les séparer...** 
   
 - Voir NOTES plus bas.
+ 
+
+# Répartition par groupe d'âge des décès **toutes causes confondues** au Québec
+
+## 70 ans et +
+![bar_graph_first_months](images/bar_graph_first_months_70_ans_et_plus_(2011-2020).png)
+![line_graph](images/line_graph_70_ans_et_plus_(2010-2020).png)
+
+## 50 à 69 ans
+![bar_graph_first_months](images/bar_graph_first_months_50-69_ans_(2011-2020).png)
+![line_graph](images/line_graph_50-69_ans_(2010-2020).png)
+
+## 0 à 49 ans
+![bar_graph_first_months](images/bar_graph_first_months_0-49_ans_(2011-2020).png)
+![line_graph](images/line_graph_0-49_ans_(2010-2020).png)
 
 
-# Total des décès pour les N premières semaines de chaque année au Québec **toutes causes confondues**
-
-Le graphique à barres ci-dessous illustre le nombre de décès pour les N premières semaine de chaue année depuis 2011, **toutes causes confondues**.
-
-![bar_graph_first_months_Total](images/bar_graph_first_months_Total_(2011-2020).png)
 
 
 # Total des décès par saison grippale au Québec **toutes causes confondues**
@@ -83,29 +104,8 @@ Les saisons sont définies ici de novembre à mai (semaines CDC 44 à 22).
 
 
 ![bar_graph_Total](images/bar_graph_Total_(2011-2020).png)
-
-
-# Répartition par groupe d'âge des décès **toutes causes confondues** au Québec
-
-## 70 ans et +
-![line_graph](images/line_graph_70_ans_et_plus_(2016-2020).png)
-![line_graph](images/line_graph_70_ans_et_plus_(2014-2020).png)
-![line_graph](images/line_graph_70_ans_et_plus_(2010-2020).png)
-![bar_graph_first_months](images/bar_graph_first_months_70_ans_et_plus_(2011-2020).png)
 ![bar_graph](images/bar_graph_70_ans_et_plus_(2011-2020).png)
-
-## 50 à 69 ans
-![line_graph](images/line_graph_50-69_ans_(2016-2020).png)
-![line_graph](images/line_graph_50-69_ans_(2014-2020).png)
-![line_graph](images/line_graph_50-69_ans_(2010-2020).png)
-![bar_graph_first_months](images/bar_graph_first_months_50-69_ans_(2011-2020).png)
 ![bar_graph](images/bar_graph_50-69_ans_(2011-2020).png)
-
-## 0 à 49 ans
-![line_graph](images/line_graph_0-49_ans_(2016-2020).png)
-![line_graph](images/line_graph_0-49_ans_(2014-2020).png)
-![line_graph](images/line_graph_0-49_ans_(2010-2020).png)
-![bar_graph_first_months](images/bar_graph_first_months_0-49_ans_(2011-2020).png)
 ![bar_graph](images/bar_graph_0-49_ans_(2011-2020).png)
 
 
