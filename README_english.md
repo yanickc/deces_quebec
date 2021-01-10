@@ -78,14 +78,20 @@ with  previous years. This may seem counter-intuitive... It should be noted that
 
 ## 70 year and +
 ![bar_graph_first_months](images/bar_graph_first_months_70_ans_et_plus_(2011-2020).png)
-![line_graph](images/line_graph_70_ans_et_plus_(2010-2020).png)
 
 ## 50 to 69 years
 ![bar_graph_first_months](images/bar_graph_first_months_50-69_ans_(2011-2020).png)
-![line_graph](images/line_graph_50-69_ans_(2016-2020).png)
 
 ## 0 to 49 years
 ![bar_graph_first_months](images/bar_graph_first_months_0-49_ans_(2011-2020).png)
+
+## 70 year and +
+![line_graph](images/line_graph_70_ans_et_plus_(2010-2020).png)
+
+## 50 to 69 years
+![line_graph](images/line_graph_50-69_ans_(2016-2020).png)
+
+## 0 to 49 years
 ![line_graph](images/line_graph_0-49_ans_(2010-2020).png)
 
 

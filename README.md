@@ -83,14 +83,21 @@ celui de 2018 par exemple. Aussi, notez que le graphique à barre est par 100 00
 
 ## 70 ans et +
 ![bar_graph_first_months](images/bar_graph_first_months_70_ans_et_plus_(2011-2020).png)
-![line_graph](images/line_graph_70_ans_et_plus_(2010-2020).png)
 
 ## 50 à 69 ans
 ![bar_graph_first_months](images/bar_graph_first_months_50-69_ans_(2011-2020).png)
-![line_graph](images/line_graph_50-69_ans_(2010-2020).png)
 
 ## 0 à 49 ans
 ![bar_graph_first_months](images/bar_graph_first_months_0-49_ans_(2011-2020).png)
+
+
+## 70 ans et +
+![line_graph](images/line_graph_70_ans_et_plus_(2010-2020).png)
+
+## 50 à 69 ans
+![line_graph](images/line_graph_50-69_ans_(2010-2020).png)
+
+## 0 à 49 ans
 ![line_graph](images/line_graph_0-49_ans_(2010-2020).png)
 
 
